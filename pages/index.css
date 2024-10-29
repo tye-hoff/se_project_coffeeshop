@@ -154,7 +154,7 @@
   background-color:#d9e7ff;
   background-image: url(../images/background_reservation.svg);
   background-repeat: no-repeat;
-  size: cover;
+  background-size: cover;
   position: relative;
 }
 
@@ -218,7 +218,7 @@
   font-family: "Inter Arial, sans-serif";
   font-style: normal;
   font-weight: 500;
-  font-style: 16px;
+  font-size: 16px;
   line-height: 20px;
   color:#fff
 }
