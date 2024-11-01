@@ -12,7 +12,7 @@
   
 .header__title {
     margin: 183px 0 0;
-    font-family: "Inter", "Arial", "sans-serif";
+    font-family: "Inter", "Arial", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 60px;
@@ -24,7 +24,7 @@
 .header__span-accent {
     color: #3f96f3;
     display: block;
-    font-family: "Noto Serif", "Times New Roman", "sans-serif";
+    font-family: "Noto Serif", "Times New Roman", sans-serif;
     font-style: italic;
     font-size: 60px;
     line-height: 72px;
@@ -33,7 +33,7 @@
 .header__description {
     margin: 28px 0 0;
     max-width: 683px;
-    font-family: "Noto Serif", "Times New Roman", "sans-serif";
+    font-family: "Noto Serif", "Times New Roman", sans-serif;
     font-weight: normal;
     font-style: normal;
     font-size: 20px;
@@ -57,7 +57,7 @@
   
 .header__paragraph {
     margin: 0;
-    font-family: "Inter", "Arial", "sans-serif";
+    font-family: "Inter", "Arial", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
