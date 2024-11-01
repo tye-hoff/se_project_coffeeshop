@@ -15,4 +15,4 @@ This is the second project I've completed for the Software Engineering program a
 
 ## Plan on improving the project
 
-- In regards to improving this project, I will soon explore different and more complex styles, involving different hover animations, text / font coloring & styling, images, and background colors, I also may explore tiny, smooth animations for the landing page using keyframes. Lastly, I will improve upon the <nav> link styles and add cards for the menu section.
+- In regards to improving this project, I will soon explore different and more complex styles, involving different hover animations, text / font coloring & styling, images, and background colors, I also may explore tiny, smooth animations for the landing page using keyframes. Lastly, I will improve upon the <nav> link styles and add more complex card designs for the menu section.
