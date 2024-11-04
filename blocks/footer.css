@@ -34,7 +34,7 @@
     font-family: "Inter", "Arial", sans-serif;
     font-style: normal;
     font-weight: normal;
-    font-style: 16px;
+    font-size: 16px;
     line-height: 20px;
     display: flex;
     align-items: center;
@@ -57,6 +57,6 @@
     font-family: "Inter", "Arial", sans-serif;
     font-style: normal;
     font-weight: normal;
-    font-style: 16px;
+    font-size: 16px;
     line-height: 20px;
 }
